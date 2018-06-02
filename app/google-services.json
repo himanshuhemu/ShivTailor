@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50099711358",
+    "firebase_url": "https://shivtailor-c6b15.firebaseio.com",
+    "project_id": "shivtailor-c6b15",
+    "storage_bucket": "shivtailor-c6b15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50099711358:android:8fdebc762fe5f6b4",
+        "android_client_info": {
+          "package_name": "in.h26698.shivtailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50099711358-j2oq4lo4ll23ku8kq8efjtvmq3solb12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.h26698.shivtailor",
+            "certificate_hash": "05fdee8838e9ddd84f1a9d8d457eb93977d99262"
+          }
+        },
+        {
+          "client_id": "50099711358-fq8jq7bu74og478qrbppgsm5og0e62gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0oTbsZUOGYSxitYLSFMUYUNjLCr-EB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50099711358-fq8jq7bu74og478qrbppgsm5og0e62gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
